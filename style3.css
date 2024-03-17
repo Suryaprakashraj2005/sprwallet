@@ -1,0 +1,19 @@
+body{
+    width: 100;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box{
+    width: 20rem;
+    height: 35rem;
+    border: 1px solid#000;
+    border-radius:30px;
+    background-image: url(file:///C:/Users/SURYA%20PRAKASH%20RAJ/Pictures/IMG_20240317_150308.jpg);
+}
+h2{
+    padding: 4rem 4rem;
+    color: white;
+}
